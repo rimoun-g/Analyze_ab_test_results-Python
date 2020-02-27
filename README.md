@@ -1,10 +1,10 @@
 # Analyze A/B Test Results
 
-This project is made for udacity Data Analyst Nanodegree
+This project is made for udacity Data Analyst Nanodegree.
 
 ## <u>Introduction</u>
 
-A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these tests and their methods.
 
 
 ## <u>Project goal</u>
